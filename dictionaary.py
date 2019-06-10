@@ -12,6 +12,4 @@ fruits["tomato"] = "A red fruit"
 
 print(fruits["tomato"])
 
-del fruits["tomato"]
-for fruit in fruits:
-    print(fruits[fruit])
+
